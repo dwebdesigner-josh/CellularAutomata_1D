@@ -1,0 +1,2 @@
+# CellularAutomata_1D
+Basic cellular automata using Wolfram code
