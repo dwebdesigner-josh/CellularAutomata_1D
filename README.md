@@ -5,9 +5,9 @@ Basic cellular automata using Wolfram code
 ### 1. Run python script in terminal
 ### 2. When prompted, set grid width to an integer value (ideally 500 or more)
 ### 3. Choose starting seed position within chosen grid width 
-###   (this is where the first filled 'pixel' will be placed, ideally place it in the middle)
+####   (this is where the first filled 'pixel' will be placed, ideally place it in the middle)
 ### 4. Choose number of generations to run the cellular automata 
-###   (i.e. the number of rows/grid height)
+####   (i.e. the number of rows/grid height)
 
 ## EXAMPLE: 
 ```
