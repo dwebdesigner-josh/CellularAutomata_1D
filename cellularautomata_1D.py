@@ -190,7 +190,7 @@ def main():
     # print(f"ROWS: {rows}")
 
 # SET RULE
-    rule = int(input("Choose a rule set between 0 and 255:"))
+    rule = int(input("Choose a rule set between 0 and 255: "))
     ruleset = try_set_rule(rule)
 
     # print(f"Rule set {rule} selected")
